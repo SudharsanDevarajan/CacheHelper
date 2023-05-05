@@ -3,4 +3,8 @@ public struct CacheHelper {
 
     public init() {
     }
+    
+    public static func add(){
+        print("Data added successfully!")
+    }
 }
